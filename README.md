@@ -34,4 +34,4 @@
 
 **可以查看到方法中会去调用InvocationHandler.invoke()方法**
 <br>
-<img src="images/hsdb5.png" width="350">
+<img src="images/hsdb6.png" width="350">
